@@ -10,7 +10,6 @@ A simple, responsive, password generator.
 
 * This application aims to accomplish the following:
     * Adhere to the [Assignment Guidelines](./assets/_guide/README.md) to ensure submission is in compliance with acceptance criteria
-    * Begin construction of an initial online portfolio with advanced CSS (to be revisted later with working javascript events)
     * Modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. 
     * This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. 
     * The password can include special characters. 
