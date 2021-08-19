@@ -3,8 +3,8 @@ A simple, responsive, password generator.
 
 ## Important URLs
 
-* [Deployed Application URL](#) 
-* [GitHub Repo URL](#)
+* [Deployed Application URL](https://candracodes.github.io/password-generator/) 
+* [GitHub Repo URL](https://github.com/candracodes/password-generator)
 
 ## Foreword
 
