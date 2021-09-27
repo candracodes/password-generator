@@ -50,3 +50,6 @@ THEN the password is either displayed in an alert or written to the page
 
 ![Official Screenshot](./assets/_guide/Assets/03-javascript-homework-demo.png)
 
+## Licensing
+The project is made possible with the following Licensing:
+- [MIT](license.txt)
