@@ -50,6 +50,14 @@ THEN the password is either displayed in an alert or written to the page
 
 ![Official Screenshot](./assets/_guide/Assets/03-javascript-homework-demo.png)
 
+* Here are screenshots of the deployed application:
+
+![Screenshot 1](./assets/_guide/Assets/screenshot1.png)
+![Screenshot 2](./assets/_guide/Assets/screenshot2.png)
+
 ## Licensing
 The project is made possible with the following Licensing:
 - [MIT](license.txt)
+
+## Contact Developer
+For additional information, contact this application's developer: letschat@candracodes.com
